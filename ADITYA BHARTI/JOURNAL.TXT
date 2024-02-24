@@ -2,3 +2,5 @@
 I have no idea what it takes to build an app.
 I see Java! I see Git, I see Gradle? what even are these???
 Why are there so many folers and files?!
+I downloaded a lotta stuff...Android Studio, Flutter, JAVA from some redhat website.
+
